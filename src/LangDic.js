@@ -124,7 +124,7 @@ export default {
     'th':'목',
     'fr':'금',
     'sa':'토'
-  }
+  },
   'es' : { // Spanish
     'january':'Enero',
     'february':'Febrero',
@@ -166,6 +166,27 @@ export default {
     'th':'Чт',
     'fr':'Пт',
     'sa':'Сб'
+  },
+  'ro' : { // Romanian
+    'january':'Ianuarie',
+    'february':'Februarie',
+    'march':'Martie',
+    'april':'Aprilie',
+    'may':'Mai',
+    'june':'Iunie',
+    'july':'Iulie',
+    'august':'August',
+    'september':'Septembrie',
+    'october':'Octombrie',
+    'november':'Noiembrie',
+    'december':'Decembrie',
+    'su':'Du',
+    'mo':'Lu',
+    'tu':'Ma',
+    'we':'Mi',
+    'th':'Jo',
+    'fr':'Vi',
+    'sa':'Sî'
   },
   'tr' : { // Turkish
     'january':'Ocak',
